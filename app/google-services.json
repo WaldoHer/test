@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "531908899996",
+    "firebase_url": "https://begreen.firebaseio.com",
+    "project_id": "begreen",
+    "storage_bucket": "begreen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531908899996:android:e41b4d6253217816",
+        "android_client_info": {
+          "package_name": "com.vectorcoder.androidecommerce.begreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531908899996-e2gng3f3kkrq01h7qmto25behf0q2u1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vectorcoder.androidecommerce.begreen",
+            "certificate_hash": "5f1766867c1dfa060b83a97bfd27e0f80d592042"
+          }
+        },
+        {
+          "client_id": "531908899996-8d4fd392jief3stiepc0572r93tp1u4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vectorcoder.androidecommerce.begreen",
+            "certificate_hash": "5ce56688b17dcdf39568d7024ada254992d0b2af"
+          }
+        },
+        {
+          "client_id": "531908899996-eucfi614hj49nr927k2m3b62bardtor7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBty1rzLmlyav0tn3uLkBa_gRHuNvCbjxY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531908899996-eucfi614hj49nr927k2m3b62bardtor7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
